@@ -72,4 +72,4 @@ Register Number: 212223040012
 ![image](https://github.com/user-attachments/assets/3d2f68e4-3aab-4962-ab51-9fe8caf5a5eb)
 
 # RESULT
-        We have performed Exploratory Data Analysis on the given data set successfully.
+We have performed Exploratory Data Analysis on the given data set successfully.
